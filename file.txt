@@ -1,3 +1,2 @@
 welcom to our file
-i created this file for learning git
-third line adding in this file
+i reated this file for learning git
